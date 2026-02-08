@@ -11,6 +11,8 @@ The **Grocery Store Management System** is a robust web application designed to 
 
 Built with a modern tech stack and database design principles, this system ensures data integrity, real-time reporting, and a seamless user experience for store administrators and cashiers.
 
+![Screenshot](docs/ss.png)
+
 ## 🚀 functionalities & Features
 
 *   **Point of Sale (POS)**: Efficient "New Order" interface for quick checkout with barcode support and receipt generation.
